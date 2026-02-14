@@ -1,22 +1,29 @@
 # Indian Banking Transactions Analysis – Excel Dashboard
 
-* Project Overview
+<img width="1868" height="657" alt="Indian_Banking_data_Dashboard" src="https://github.com/user-attachments/assets/042d9b09-162d-46c8-9ee1-272a4b1e7cba" />
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Project Overview
+
 
 This project analyzes Indian banking transaction data using Microsoft Excel to identify regional trends, fraud patterns, transaction behavior, and payment insights.
 
 The dashboard provides interactive filtering by:
 
--- Year
+* Year
 
--- Month
+* Month
 
--- City
+* City
 
--- Region
+* Region
 
--- Transaction Type
+* Transaction Type
 
-* Dataset
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Dataset
 
 File: Indian_Banking_data.xlsx
 
@@ -24,110 +31,120 @@ Records: Banking transactions across multiple regions and branches
 
 Fields include:
 
--- Transaction ID
+* Transaction ID
 
--- Transaction Amount
+* Transaction Amount
 
--- Region
+* Region
 
--- Branch
+* Branch
 
--- Payment Mode
+* Payment Mode
 
--- Transaction Type
+* Transaction Type
 
--- Fraud Flag
+* Fraud Flag
 
--- Status
+* Status
 
--- Date
+* Date
 
-* Dashboard Features
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. Regional Transaction Volume
+## Dashboard Features
 
-Comparison of transaction counts across regions
+#### 1. Regional Transaction Volume
 
-Identifies high-performing zones
+  * Comparison of transaction counts across regions
 
-2️. Monthly Trend by Region
+  * Identifies high-performing zones
 
-Tracks transaction amount trend over months
+#### 2. Monthly Trend by Region
 
-Helps detect seasonal patterns
+  * Tracks transaction amount trend over months
 
-3️. Payment Mode Distribution
+  * Helps detect seasonal patterns
 
-Cash
+#### 3. Payment Mode Distribution
 
-Credit Card
+  * Cash
 
-Debit Card
+  * Credit Card
 
-Net Banking
+  * Debit Card
 
-UPI
+  * Net Banking
 
-4️. Transaction Type Analysis
+  * UPI
 
-Cheque
+#### 4. Transaction Type Analysis
 
-Deposit
+  * Cheque
 
-Online Transfer
+  * Deposit
 
-Withdrawal
+  * Online Transfer
 
-5️. Fraud Pattern by Branch
+  * Withdrawal
 
-Identifies branches with higher fraud flags
+#### 5. Fraud Pattern by Branch
 
-Useful for risk monitoring
+  * Identifies branches with higher fraud flags
 
-6️. Transaction Status Breakdown
+  * Useful for risk monitoring
 
-Completed
+#### 6. Transaction Status Breakdown
 
-Failed
+  * Completed
 
-Pending
+  * Failed
 
-Reversed
+  * Pending
 
-* Tools Used
+  * Reversed
 
-Microsoft Excel
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Pivot Tables
+## Tools Used
 
-Pivot Charts
+* Microsoft Excel
 
-Slicers
+* Pivot Tables
 
-Data Cleaning
+* Pivot Charts
 
-Aggregation Functions
+* Slicers
 
-* Key Insights
+* Data Cleaning
 
-North region shows highest transaction volume.
+* Aggregation Functions
 
-Online transfers dominate transaction amount.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-UPI and Debit Card are major digital payment methods.
+## Key Insights
 
-Majority transactions are completed successfully.
+* North region shows highest transaction volume.
 
-Fraud cases concentrated in specific branches.
+* Online transfers dominate transaction amount.
 
-* Business Use Case
+* UPI and Debit Card are major digital payment methods.
 
-This dashboard can help:
+* Majority transactions are completed successfully.
 
-Bank management track performance
+* Fraud cases concentrated in specific branches.
 
-Identify fraud-prone branches
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Monitor digital payment adoption
+## Business Use Case
 
-Analyze regional growth trends
+* This dashboard can help:
+
+* Bank management track performance
+
+* Identify fraud-prone branches
+
+* Monitor digital payment adoption
+
+* Analyze regional growth trends
+
+
